@@ -1,1 +1,1 @@
-# cit281-lab08
+## Lab 8 : .then() & .catch()
